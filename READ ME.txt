@@ -1,0 +1,11 @@
+EIGHT ARMY FREE FOR ALL v. 1.5
+
+I made setup easy this time.
+
+-Place the ZIP file in the "maps" directory
+-Open the ZIP (don't extract) and copy the eight_army_free_for_all.xml file to the "games" folder
+-Enjoy. Let TripleA take care of everything else.
+
+U-Boat
+
+uboataaa@gmail.com or uboat-aaa.blogspot.com

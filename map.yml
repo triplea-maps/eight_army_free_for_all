@@ -1,0 +1,5 @@
+map_name: eight_army_free_for_all
+games:
+- game_name: Eight Army Free For All
+  file_name: eight_army_free_for_all.xml
+version: 0
